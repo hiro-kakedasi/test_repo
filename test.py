@@ -1,2 +1,3 @@
-import pandas as pd
+import pandas
+
 print("hello")
